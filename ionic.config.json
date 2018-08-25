@@ -1,0 +1,8 @@
+{
+  "name": "neuralmonkeyx",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "405d188c"
+}
